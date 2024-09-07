@@ -1,7 +1,3 @@
-Here is the updated README file, incorporating content from the midterm and final exams:
-
----
-
 # Advanced Quantitative Methods II (API-210) - Harvard University
 
 This repository contains course materials, problem sets, exams, and solutions for the **Advanced Quantitative Methods II (API-210)** course taught by Prof. Will Dobbie at the Harvard Kennedy School. This course focuses on advanced econometric methods for causal inference and policy evaluation, with emphasis on real-world data analysis using R.
